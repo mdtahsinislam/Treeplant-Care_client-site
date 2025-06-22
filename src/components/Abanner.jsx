@@ -1,44 +1,4 @@
-// import React from 'react';
 
-// const Abanner = () => {
-//     return (
-//         <div className='mx-auto mt-5'> mx-auto not show 
-//             <div className='grid grid-cols-3 items-center  gap-3'>
-//                 <div className="card card-border bg-base-100 shadow-lg ">
-//   <div className="card-body  ">
-//     <h2 className="card-title text-4xl">Landscape Design</h2>
-//     <p>Consectetur adipisicing elit. Fugiat beatae debitis illo nihil commodi</p>
-   
-//   </div>
-// </div>
-
-
-//  <div className="card card-border bg-base-100  shadow-lg">
-//   <div className="card-body">
-//     <h2 className="card-title text-4xl">Garden Serving</h2>
-//     <p>Consectetur adipisicing elit. Fugiat beatae debitis illo nihil commodi</p>
-   
-//   </div>
-// </div>
-
-
-//  <div className="card card-border bg-base-100  shadow-lg">
-//   <div className="card-body">
-//     <h2 className="card-title text-4xl">Pest Control</h2>
-//     <p>Consectetur adipisicing elit. Fugiat beatae debitis illo nihil commodi</p>
-   
-//   </div>
-// </div>
-
-
-
-
-//             </div>
-//         </div>
-//     );
-// };
-
-// export default Abanner;
 
 
 
