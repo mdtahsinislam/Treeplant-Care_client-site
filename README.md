@@ -294,26 +294,16 @@ When using Firebase, secure rules so only the owner can modify/delete their plan
 * Version Control: GitHub
 ---
 
-## 📷 Assets & Screenshots
 
-Add screenshots for the Home page, Add Plant form, My Plants table, and a Plant Details card. You can embed images in this README like:
-
-```md
-![Home Banner](./screenshots/home-banner.png)
-```
-
----
 
 ## 🧭 Deployment
 
-* For frontend-only: Vercel, Netlify, or GitHub Pages
-* For full-stack: Vercel (frontend) + Serverless functions, or Heroku / Render for API + MongoDB Atlas / Firebase
-
-
+* Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting
+* Version Control: GitHub
 
 ## 📝 License
 
-This project is open source. Add your preferred license (e.g., MIT).
+This project is open source. Add your preferred license (e.g., MIT). Happy coding 🚀
 
 ---
 
