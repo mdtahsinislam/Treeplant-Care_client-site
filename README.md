@@ -18,8 +18,8 @@ A beautiful, responsive web app to log, track, and manage care tasks for housepl
 ## 🚀 Live Demo
 
 ## live link: https://treeplant-care-app.web.app/
-### Clint site : https://github.com/mdtahsinislam/Treeplant-Care_client-site
-### Server site :https://github.com/mdtahsinislam/TreeplantCare_serversite
+### Clint site Repository: https://github.com/mdtahsinislam/Treeplant-Care_client-site
+### Server site Repository:https://github.com/mdtahsinislam/TreeplantCare_serversite
 
 ---
 
