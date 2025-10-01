@@ -17,9 +17,9 @@ Currently, two official plugins are available:
 
 ## 🚀 Live Demo
 
-## live link: https://treeplant-care-app.web.app/
-### Clint site Repository: https://github.com/mdtahsinislam/Treeplant-Care_client-site
-### Server site Repository:https://github.com/mdtahsinislam/TreeplantCare_serversite
+## 🌐 live link: https://treeplant-care-app.web.app/
+### 🔗 Clint site Repository: https://github.com/mdtahsinislam/Treeplant-Care_client-site
+### 🔗 Server site Repository:https://github.com/mdtahsinislam/TreeplantCare_serversite
 
 ---
 
