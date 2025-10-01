@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 
 ---
 
-# 🌿 Plant Care Tracker 🎯
+# 🎯 Plant Care Tracker 🌿
 
-A beautiful, responsive web app to log, track, and manage care tasks for houseplants. Users can add plants, log watering/fertilizing dates, set reminders, and monitor plant health. Built with modern React tooling, protected routes, and user authentication.
+🌿 A beautiful, responsive web app to log, track, and manage care tasks for houseplants. Users can add plants, log watering/fertilizing dates, set reminders, and monitor plant health. Built with modern React tooling, protected routes, and user authentication.
 
 ---
 
