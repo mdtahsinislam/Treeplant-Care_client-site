@@ -301,9 +301,7 @@ When using Firebase, secure rules so only the owner can modify/delete their plan
 * Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting
 * Version Control: GitHub
 
-## 📝 License
-
-This project is open source. Add your preferred license (e.g., MIT). Happy coding 🚀
+# 📝  Happy coding 🚀
 
 ---
 
