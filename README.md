@@ -1,12 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+!Preview(https://github.com/mdtahsinislam/Treeplant-Care_client-site/blob/be1179fdfa8f900527eefff179652a6297bffbf9/readme3.png)
 ---
 
 # 🎯 Plant Care Tracker 🌿
